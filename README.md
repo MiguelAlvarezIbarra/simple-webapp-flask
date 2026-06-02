@@ -150,4 +150,11 @@ D --> E[Response]
 | RF-09 | The system shall support multiple routes. |
 | RF-10 | The system shall return appropriate HTTP status codes. |
 
+## Team Members
+
+| Name | Role |
+|------|------|
+| Miguel Angel Alvarez Ibarra | Developer |
+
+
 ## ScreenShots
